@@ -1,0 +1,11 @@
+/Users/sonia/RiderProjects/Solution2/ConsoleApp3/bin/Debug/netcoreapp2.2/ConsoleApp3.deps.json
+/Users/sonia/RiderProjects/Solution2/ConsoleApp3/bin/Debug/netcoreapp2.2/ConsoleApp3.runtimeconfig.json
+/Users/sonia/RiderProjects/Solution2/ConsoleApp3/bin/Debug/netcoreapp2.2/ConsoleApp3.runtimeconfig.dev.json
+/Users/sonia/RiderProjects/Solution2/ConsoleApp3/bin/Debug/netcoreapp2.2/ConsoleApp3.dll
+/Users/sonia/RiderProjects/Solution2/ConsoleApp3/bin/Debug/netcoreapp2.2/ConsoleApp3.pdb
+/Users/sonia/RiderProjects/Solution2/ConsoleApp3/obj/Debug/netcoreapp2.2/ConsoleApp3.csprojAssemblyReference.cache
+/Users/sonia/RiderProjects/Solution2/ConsoleApp3/obj/Debug/netcoreapp2.2/ConsoleApp3.csproj.CoreCompileInputs.cache
+/Users/sonia/RiderProjects/Solution2/ConsoleApp3/obj/Debug/netcoreapp2.2/ConsoleApp3.AssemblyInfoInputs.cache
+/Users/sonia/RiderProjects/Solution2/ConsoleApp3/obj/Debug/netcoreapp2.2/ConsoleApp3.AssemblyInfo.cs
+/Users/sonia/RiderProjects/Solution2/ConsoleApp3/obj/Debug/netcoreapp2.2/ConsoleApp3.dll
+/Users/sonia/RiderProjects/Solution2/ConsoleApp3/obj/Debug/netcoreapp2.2/ConsoleApp3.pdb
